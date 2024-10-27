@@ -1,0 +1,1 @@
+terramechanics_sim: This folder contains all the code I used for simulating the terramechanics of a lunar micro-rover. The rover was developed as part of the annual "Space Exploration Project" during my Master's studies at FH Aachen. 
